@@ -24,4 +24,4 @@ The Coding Club website is a landing page for parents and children looking for a
 Building | a table | with markdown
 --- | --- | ---
 *Italic text* | **bold text** | inline code
-42 | 400 | 97 
+42 | 400 | 97 Force refresh
