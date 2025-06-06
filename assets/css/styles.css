@@ -1,15 +1,10 @@
 body {
     background-color: lightgrey;
-    background-image: url("../images/background.jpg");
+    background-image: url("../images/background-img.jpg");
     background-size: cover;
-    background-repeat: no-repeat;
     background-position: center;
-  }
-  
-  p {
-      font-weight: bold;
-  }
-
-  .text-center {
-      text-align: center;
-  }
+    background-repeat: no-repeat;
+}
+p {
+    font-weight: bold;
+}
